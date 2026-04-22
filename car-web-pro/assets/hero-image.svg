@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#11151d" />
+      <stop offset="100%" stop-color="#222b3a" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="600" fill="url(#bg)" rx="32" />
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#f8fafc" font-family="Inter, system-ui, sans-serif" font-size="42">
+    Replace this file with your hero image
+  </text>
+  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" fill="#94a3b8" font-family="Inter, system-ui, sans-serif" font-size="24">
+    Save your image as assets/hero-image.jpeg or assets/hero-image.png
+  </text>
+</svg>
