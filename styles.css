@@ -132,11 +132,13 @@ img {
   padding: 3rem 0 2rem;
 }
 .hero {
-  background: 
-    linear-gradient(
-      rgba(0,0,0,0.7),
-      rgba(0,0,0,0.9)
-    ),
+  background: linear-gradient(
+    120deg,
+    rgba(37, 99, 235, 0.1),
+    rgba(255, 255, 255, 0.6)
+  );
+  padding: 4rem 0;
+}
     url('assets/hero-image.png');
     
   background-size: cover;
