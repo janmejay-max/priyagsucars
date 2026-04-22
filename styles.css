@@ -132,11 +132,16 @@ img {
   padding: 3rem 0 2rem;
 }
 .hero {
-  background: linear-gradient(
-    135deg,
-    rgba(255, 255, 255, 0.1),
-    rgba(255, 255, 255, 0.2)
-  );
+  background: 
+    linear-gradient(
+      rgba(0,0,0,0.7),
+      rgba(0,0,0,0.9)
+    ),
+    url('assets/hero-image.png');
+    
+  background-size: cover;
+  background-position: center;
+}
 }
 .hero-content {
   display: grid;
