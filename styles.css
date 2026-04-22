@@ -131,7 +131,13 @@ img {
   background: linear-gradient(135deg, rgba(255, 255, 255, 0.02) 0%, rgba(255, 255, 255, 0.06) 100%);
   padding: 3rem 0 2rem;
 }
-
+.hero {
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.1),
+    rgba(255, 255, 255, 0.2)
+  );
+}
 .hero-content {
   display: grid;
   grid-template-columns: 1fr 1fr;
